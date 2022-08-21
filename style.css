@@ -13,7 +13,7 @@ html, body{
 
 .background_image2{
     background-image: url(./img/bg2.jpg);
-   min-height: 100%;
+   min-height: 80%;
 }
 .background_image3{
     background-image: url(./img/bg3.jpg);
@@ -37,8 +37,8 @@ html, body{
     justify-content: center;
 }
 .logoContainer{
-    font-size: 50px;
-    letter-spacing: 10px;
+    font-size: 4rem;
+    letter-spacing: 0.4rem;
     color: white;
     background-color: rgb(0, 0, 0);
     border-radius: 20px 0 20px 0; 
